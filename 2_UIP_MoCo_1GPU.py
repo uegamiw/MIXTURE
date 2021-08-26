@@ -1,6 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+#	Source:
+#	Tiling code inspired from
+#	https://github.com/facebookresearch/moco
+#	which is Copyright (c) Facebook, Inc. and its affiliates.
+#	The code has been modified to analyze interstitial pneumonia by Wataru Uegami, MD
+
 from datetime import datetime
 from functools import partial
 from PIL import Image
